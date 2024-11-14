@@ -1,2 +1,1 @@
-# dsa-cpp
-data structures and algorithms in cpp
+***data structures and algorithms in cpp***
